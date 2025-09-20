@@ -1,0 +1,2 @@
+# barcode_analyzer
+.exe
